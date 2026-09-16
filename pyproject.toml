@@ -1,0 +1,13 @@
+[project]
+name = "sidepick-poc"
+version = "0.1.0"
+description = "PoC for automatically discovering Naver Shopping product opportunities."
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.32.0",
+  "python-dotenv>=1.0.1",
+]
+
+[tool.ruff]
+line-length = 100
+
