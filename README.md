@@ -1,5 +1,7 @@
 # SidePick PoC
 
+기기 간 작업 안내: [맥과 Windows 개발 환경](docs/work-environment.md) · [작업 인수인계](docs/handoff.md).
+
 SidePick is a small proof of concept that uses official Naver APIs to discover product candidates worth investigating for online sellers.
 
 It does not estimate sales, revenue, or exact search volume. It only uses:
